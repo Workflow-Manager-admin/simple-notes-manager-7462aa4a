@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">notes_app_frontend</string>
+    <string name="add_note">Add Note</string>
+    <string name="save_note">Save Note</string>
+    <string name="edit_note">Edit</string>
+    <string name="delete_note">Delete</string>
+    <string name="delete_confirm">Delete Note?</string>
+    <string name="delete_confirm_text">This cannot be undone. Are you sure?</string>
+    <string name="empty_title">Title</string>
+    <string name="empty_content">Write your note…</string>
 </resources>
