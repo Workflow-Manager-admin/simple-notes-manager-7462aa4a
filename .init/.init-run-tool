@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-notes-manager-7462aa4a/notes_app_frontend"
+}
